@@ -12,3 +12,5 @@ wikipedia
 lxml
 unstructured
 nltk
+langchain_huggingface
+langchain-groq
