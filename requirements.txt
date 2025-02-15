@@ -14,3 +14,4 @@ unstructured
 nltk
 langchain_huggingface
 langchain-groq
+langgraph
