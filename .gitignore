@@ -181,3 +181,6 @@ cython_debug/
 config.json
 
 /share
+
+# langgraph debugging files
+*.pckl
