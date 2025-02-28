@@ -6,11 +6,6 @@ from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
 
-
-
-
-
-
 llm=ChatGroq(model="qwen-2.5-32b")
 load_dotenv()
 
