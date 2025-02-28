@@ -2,7 +2,8 @@
   "dependencies":["."],
   "graphs":{
     "openai_agent":"./openai_agent.py:agent",
-    "bloggenerator_agent":"./bloggenerator_agent.py:agent"
+    "bloggenerator_agent":"./bloggenerator_agent.py:agent",
+    "peerreview_agent":"./peerreview_agent.py:agent"
   },
   "env":"../.env"
 
